@@ -14,8 +14,4 @@ class Backer
     project.backers << self unless project.backers.include?(self)
   end
 
-
-
-
-
 end
